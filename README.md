@@ -11,7 +11,7 @@ https://github.com/GiulianoVianna/Prototipo-Jogo-Galactic-Odyssey-Python/assets/
 ## Somente a estrutura Inicial!
 
 ## Descrição
-Galactic Odyssey é um jogo de nave espacial desenvolvido em Python, utilizando a biblioteca Pygame. O jogador controla uma nave que pode se mover em todas as direções na tela, enfrentando obstáculos e disparando contra inimigos. O cenário do jogo é um espaço sideral animado, que oferece uma experiência imersiva.
+Galactic Odyssey é um protótipo inicial de jogo de nave espacial desenvolvido em Python, utilizando a biblioteca Pygame. O jogador controla uma nave que pode se mover em todas as direções na tela, enfrentando obstáculos e disparando contra inimigos. O cenário do jogo é um espaço sideral animado, que oferece uma experiência imersiva.
 
 ## Recursos
 
