@@ -4,6 +4,10 @@
 
 ![image](https://github.com/GiulianoVianna/Prototipo-Jogo-Galactic-Odyssey-Python/assets/101942554/f17d7d18-bd66-42ae-8002-a4b69259199f)
 
+![image](https://github.com/GiulianoVianna/Prototipo-Jogo-Galactic-Odyssey-Python/assets/101942554/363a1c07-77ef-427a-b972-c716ff4c2070)
+
+https://github.com/GiulianoVianna/Prototipo-Jogo-Galactic-Odyssey-Python/assets/101942554/244b49b3-2d89-4bf5-9627-1289b8480281
+
 https://github.com/GiulianoVianna/Prototipo-Jogo-Galactic-Odyssey-Python/assets/101942554/93d1480b-e145-4342-a7e3-efa929869cd4
 
 https://github.com/GiulianoVianna/Prototipo-Jogo-Galactic-Odyssey-Python/assets/101942554/289171a4-07a0-44f8-88f9-1eb133683bc9
