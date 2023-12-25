@@ -190,10 +190,6 @@ def desenhar():
     for retangulo_nave_inimiga in naves_inimigas:
         tela.blit(imagens_nave_inimiga[indice_imagem_nave_inimiga_atual], retangulo_nave_inimiga)
 
-    # Atualiza a tela
-    #pygame.display.update()
-
-
 # Loop principal do jogo
 jogo_rodando = True
 while jogo_rodando:
@@ -205,12 +201,9 @@ while jogo_rodando:
     mover_naves_inimigas()
     verificar_colisoes()
     remover_naves_inimigas()
-    # Primeiro desenhamos o fundo, a nave, o chão e o tiro
     desenhar()
-    # Depois desenhamos as explosões por cima do restante
     desenhar_explosoes()
     
-    # Finalmente, atualizamos a tela
     pygame.display.update()
 
 pygame.quit()
