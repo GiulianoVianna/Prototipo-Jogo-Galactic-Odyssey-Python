@@ -2,7 +2,11 @@
 
 ## Jogo em Desenvolvimento.
 
+![image](https://github.com/GiulianoVianna/Prototipo-Jogo-Galactic-Odyssey-Python/assets/101942554/543803e4-8dc7-449a-9da0-00c533a3e7f1)
+
 ![image](https://github.com/GiulianoVianna/Prototipo-Jogo-Galactic-Odyssey-Python/assets/101942554/89237e93-04dd-4a0e-8a91-69d6f1e458f9)
+
+https://github.com/GiulianoVianna/Prototipo-Jogo-Galactic-Odyssey-Python/assets/101942554/159c54e9-6714-4c44-9f61-fe6cafb4c45d
 
 https://github.com/GiulianoVianna/Prototipo-Jogo-Galactic-Odyssey-Python/assets/101942554/95547ee1-bf41-4d1c-9236-a9633ab32ccd
 
