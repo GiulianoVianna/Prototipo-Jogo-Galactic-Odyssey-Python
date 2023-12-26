@@ -87,7 +87,6 @@ def mostrar_tela_inicial():
                     pygame.quit()
                     exit()
 
-
 # Processar eventos
 def processar_eventos():
 
@@ -147,8 +146,6 @@ def mostrar_game_over():
 
     pygame.display.flip()
 
-
-
 # Contagem regressiva para reiniciar o jogo
 def contagem_regressiva():
     contador = 5
@@ -182,7 +179,6 @@ def reiniciar_jogo():
     naves_inimigas = []
     pontuacao = 0
     explosoes = []
-
       
 # Mover chão
 def mover_chao():
@@ -350,7 +346,6 @@ def desenhar():
   
     desenhar_vida()
     desenhar_pontuacao()
-
 
 # Loop principal
 mostrar_tela_inicial()
